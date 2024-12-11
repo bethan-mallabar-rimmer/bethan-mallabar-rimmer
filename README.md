@@ -1,4 +1,15 @@
 ## Hi there 👋
+###Don't mind me putting random images on here while following a github tutorial
+
+<picture> 
+
+ <source media="(prefers-color-scheme: dark)" srcset="https://cdn.pixabay.com/photo/2019/07/11/00/42/barnacle-4329796_1280.jpg", alt="barnacles on a shell"> 
+
+ <source media="(prefers-color-scheme: light)" srcset="https://cdn.pixabay.com/photo/2017/04/05/16/29/sunset-2205553_1280.jpg", alt="sunset on a beach"> 
+
+ <img alt="barnacles on a shell" src="https://cdn.pixabay.com/photo/2019/07/11/00/42/barnacle-4329796_1280.jpg"> 
+
+</picture> 
 
 <!--
 **bethan-mallabar-rimmer/bethan-mallabar-rimmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
